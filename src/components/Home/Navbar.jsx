@@ -10,7 +10,7 @@ const Navbar = () => {
                 <h1 className="text-2xl font-bold">pti.</h1>
             </div>
             <div className="flex justify-center items-center">
-                <div className="absolute mr-80 lg:mr-[500px]">
+                <div className="absolute mr-80 lg:mr-[530px]">
                     <CiSearch className="text-orange-600" />
                 </div>
                 <div className="flex gap-2">
